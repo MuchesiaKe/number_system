@@ -13,6 +13,9 @@ The program is work in progress and overtime the features will be fully be imple
 
 Author
 Muchesia Wallace
+
 Github: MuchesiaKe
+
 Twitter: @WallaceMuchesia - https://twitter.com/WallaceMuchesia
+
 LinkedIn: https://www.linkedin.com/in/wallace-muchesia-482900139
